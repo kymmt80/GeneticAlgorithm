@@ -1,5 +1,5 @@
 # Genetic Algorithm
-In this project, the aim is to solve a sudoku puzzle using the genetic algorithm
+In this assignment, the aim is to solve a sudoku puzzle using the genetic algorithm
 
 ## Table of Contents
 - Part 1: Defining Genes and Chromosomes
