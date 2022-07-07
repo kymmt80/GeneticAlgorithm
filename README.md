@@ -1,5 +1,7 @@
 # Genetic Algorithm
-This an implementation of a sudoku solver that works with the genetic algorithm.
+This is an implementation of a sudoku solver that works with the genetic algorithm.
+
+<img src="assets/sudoku.png" alt="drawing" width="300"/>
 
 Sudoku is a puzzle game where the goal is to fill a 9×9 grid with numbers so that each row, column and 3×3 section contain all of the digits between 1 and 9.
 
