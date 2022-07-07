@@ -1,5 +1,5 @@
 # Genetic Algorithm
-This is an implementation of a sudoku solver that works with the genetic algorithm.
+This is an implementation of a sudoku solver that works with the genetic algorithm. The report can be found in ```genetic_algorithm.ipynb```.
 
 <img src="assets/sudoku.png" alt="drawing" width="300"/>
 
